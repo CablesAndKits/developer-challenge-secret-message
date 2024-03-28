@@ -1,7 +1,6 @@
 # Assessment Developer - Secret message
 
-At BAS Tech we primarily use PHP for our service development. We create web applications, 
-APIs, microservices, (native) apps and a monolithic intranet. 
+At CablesAndKits we primarily use PHP for our development.
 
 We're very interested to see how you develop. Having something in a working fashion is
 secondary to be being able to explain why you did what you did. 
@@ -13,19 +12,11 @@ design patterns and writing human-readable code.
 ## Requirements
 
 - Use Git versioning system
-- Your application must run with a maximum of 3 commands:
-  - clone
-  - install dependencies
-  - (optional) start Docker containers
+- You must include instructions on how to run your application.
+- It should be able to run on the latest PHP and MySQL.
 
-If you forego the Docker part, we will be running it in a Docker instance running: 
-
-- PHP ^8.1
-- MySQL ^8.0
-- Node ^17
-
-Make sure to upload your project to a VCS system (preferably Github) and provide us with
-the (public) link to be able to clone it. 
+Make sure to upload your project to Github and provide us with
+the (public) link to be able to clone it.
 
 _**Spend an approximate maximum of 4 hours on the assignment**_
 
