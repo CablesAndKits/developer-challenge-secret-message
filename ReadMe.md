@@ -13,7 +13,7 @@ design patterns and writing human-readable code.
 
 - Use Git versioning system
 - You must include instructions on how to run your application.
-- It should be able to run on the latest PHP and MySQL.
+- It should be able to run on the latest PHP and MySQL/sqlite.
 
 Make sure to upload your project to Github and provide us with
 the (public) link to be able to clone it.
